@@ -2,6 +2,3 @@ credit:
   card:
     owner: John Doe
     cvv: 123
-    secret:
-      phrase: What was your first pet name?
-      answer: Micki
