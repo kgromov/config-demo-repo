@@ -1,4 +1,5 @@
 foo: bard
+bar: foo
 
 spring:
   rabbitmq:
