@@ -1,5 +1,5 @@
-foo: bard
-bar: foo
+foo: bar
+bar: foor
 
 spring:
   rabbitmq:
