@@ -4,8 +4,3 @@ person:
   height: 175
   weight: 80
   salary: USD 3000
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka
