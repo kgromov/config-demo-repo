@@ -1,2 +1,7 @@
 foo: bar
 bar: foor
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
