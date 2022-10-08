@@ -5,3 +5,8 @@ credit:
     secret:
       phrase: What was your first pet name?
       answer: Micki
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
